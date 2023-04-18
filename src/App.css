@@ -32,12 +32,11 @@ ul {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
   margin-top: 50px;
   box-sizing: border-box;
-  width: 150px;
 }
 
 img {
-  width: 150px;
-  height: 200px;
+  width: 230px;
+  height: 300px;
 }
 
 .main-content {
