@@ -64,4 +64,9 @@ img {
   ul {
     display: block;
   }
+
+  .main-list {
+    width: 230px;
+  }
+
 }
