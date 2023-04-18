@@ -9,7 +9,7 @@ export const Header = () => {
         color: isActive ? 'rgb(140, 173, 202)' : 'green',
         textDecoration : isActive ? '' : 'none',
         padding: '20px',
-        fontSize: '20px'
+        fontSize: '16px'
     })
     return (
         <nav>
