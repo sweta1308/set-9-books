@@ -67,6 +67,11 @@ img {
 
   .main-list {
     width: 230px;
+    margin: 0 auto;
+  }
+
+  .profile-card, .profile-img {
+    width: 320px;
   }
 
 }
