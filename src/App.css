@@ -32,15 +32,16 @@ ul {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
   margin-top: 50px;
   box-sizing: border-box;
+  width: 180px;
 }
 
 img {
-  width: 230px;
+  width: 180px;
   height: 250px;
 }
 
 .main-content {
-  padding: 15px;
+  padding: 10px;
 }
 
 /* Profile page */
